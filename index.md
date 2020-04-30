@@ -6,5 +6,5 @@ title: Like E-Vent
 # Objectif du projet E-Vent du MIT
 
 L'objectif du projet E-Vent est la conception d'un respirateur artificiel issue de l'automatisation d'un réanimateur manuel, comme moyen potentiel de ventilation à long terme.
-Il s'agit là d'un appareil non homologué par les organismes de certification à ce jour (avril 2020). Cependant ce projet répond à une problématque mondiale que rencontrent de nombreux hopitaux ne disposant pas de respirateurs artificiels suffisants pour tous ses patients et que l'unique solution est la ventilation manuelle. (space, space)
+Il s'agit là d'un appareil non homologué par les organismes de certification à ce jour (avril 2020). Cependant ce projet répond à une problématque mondiale que rencontrent de nombreux hopitaux ne disposant pas de respirateurs artificiels suffisants pour tous ses patients et que l'unique solution est la ventilation manuelle.  
 Ce système n'étant pas homologué, il est donc strictement déconseillé de laisser un patient sans surveillance sous assistance respiratoire E-Vent, le personnel qualifié de l'établissement doit être présent afin de surveiller directement les signes vitaux du patient et pouvoir intervenir pour tout autre raison.
