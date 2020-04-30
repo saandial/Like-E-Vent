@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Another page
-description: This is just another page
+title: Like E-Vent
+description: Ce site regroupe les infomations nécessaires à la conception d'un respirateur d'urgence basé sur le projet Open Source du [MIT E-Vent](https://e-vent.mit.edu/)
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
