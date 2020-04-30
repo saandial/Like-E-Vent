@@ -11,6 +11,7 @@ Cependant ce projet répond à une problématque mondiale que rencontrent de nom
 Ce système n'étant pas homologué, il est donc strictement déconseillé de laisser un patient sans surveillance sous assistance respiratoire E-Vent, le personnel qualifié de l'établissement doit être présent afin de surveiller directement les signes vitaux du patient et pouvoir intervenir pour tout autre raison.<br><br>
 [Le projet E-Vent du MIT.](https://e-vent.mit.edu/)
 
+----
 
 <br>
 _Projet en cours ..._
