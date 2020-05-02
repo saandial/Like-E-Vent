@@ -13,5 +13,9 @@ Ce système n'étant pas homologué, il est donc strictement déconseillé de la
 
 ----
 
+# Design mécanique : impression 3D
+
+![Like E-Vent](/src/img/Like-E-Vent.png)
+
 <br>
 _Projet en cours ..._
