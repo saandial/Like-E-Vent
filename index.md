@@ -15,7 +15,7 @@ Ce système n'étant pas homologué, il est donc strictement déconseillé de la
 
 # Design mécanique : impression 3D
 
-<img src="src/img/Like-E-Vent.png" align="center" width="300">
+<div style="text-align:center"><img src="src/img/Like-E-Vent.png" width="400"></div>
 
 <br>
 _Projet en cours ..._
